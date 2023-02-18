@@ -1,0 +1,139 @@
+/* /* INDEX */
+/* Header */
+
+.H1-Header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    position: relative;
+    bottom: 20px;
+    z-index: 2;
+    font-style: Helvetica;
+}
+
+.Nav-1{
+    font-size: 35px;
+    position:relative;
+    text-align: end;
+    bottom: 40px;
+    z-index: 2;
+}
+
+    .Nav-2{
+     background-color: #288EC8;
+     color: white;
+     border: 2px solid black;
+}
+
+.Nav-3{
+    background-color: #27BD57;
+    color: white;
+    border: 2px solid black;
+}
+
+.image-header{
+    position: relative;
+    height: 550px ;
+    width: 1570px;
+    z-index: 0;
+    top: -50px;
+}
+
+.H2-Header{
+    position: relative;
+    font-size: 50px;
+    text-align: center;
+    border: 2px solid black;
+    top: -80px;
+} 
+
+/* Main */
+
+.Logo-Index{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    top: -150px;
+}
+
+.Text-Events{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: 20px;
+    top: -440px;
+    left: 330px;
+    width: 1100px;
+    font-style: Helvetica;
+    text-align: justify;
+}
+
+
+/* SCHEDULE */
+
+.Schedule-Block{
+    position: relative;
+    left: 300px;
+    top: -400px;
+}
+
+.table-schedule{
+    border: 2px solid black;
+    width: 1100px;
+     border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+}
+td, th{
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.Title-Schedule{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+    font-size: 30px;
+}
+.text-schedule{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+}
+.text-email{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+    left: 400px;
+    top: -33px;
+}
+    /* RULES */
+
+.title-rules{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+    text-align: center;
+    position: relative;
+    right: -125px;
+    top: -420px ;
+}
+
+.rules-list{
+    width: 1200px;
+    height: 500px;
+    text-align: justify;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+    top: -400px;
+    right: -320px;
+
+}
+
+.circle-list{
+    list-style-type: circle;
+}
+
+
+.footer{
+    text-align: center;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: Helvetica;
+}
